@@ -1,0 +1,1 @@
+Siga rigorosamente todas as regras, arquitetura e convenções descritas em @AGENTS.md.
