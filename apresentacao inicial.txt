@@ -1,0 +1,29 @@
+1.1 - intuito de ajudar tanto o veterinário quanto o tutor 
+
+1.2 diferenciais:
+consultar data de vacinação 
+acesso as receitas prescritas pelo veterinário 
+instruções de e como usar e ou aplicar o medicamento 
+agendar consultas 
+relatório de diagnostico medico do animal 
+
+1.3 pdf 
+
+1.4 trello
+
+1.5 GitHub
+
+1.6 - mais difícil do projeto 
+gerenciamento de pefis das clinicas e relacionamento do banco de dados de cada uma delas 
+
+1.7 trello 
+
+1.8 banco de dados 
+
+
+
+LINK do TRELLO 
+https://trello.com/b/0NvkCoOq/projeto-integrador-grupo-1
+
+
+ 
